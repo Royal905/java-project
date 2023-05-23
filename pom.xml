@@ -1,8 +1,0 @@
-<dependencies>
-    <dependency>
-        <groupId>com.github.docker-java</groupId>
-        <artifactId>docker-java</artifactId>
-        <version>3.2.10</version>
-    </dependency>
-</dependencies>
-
